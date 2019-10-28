@@ -50,7 +50,7 @@ To reproduce the results of autoencoder based clustering on MNIST
 sh scripts/run_autoencoder_clustering.sh
 ```
 
-To reproduce the results of autoencoder based clustering on MNIST
+To reproduce the results of pre-trained ResNet152 based clustering on MNIST
 ```
 Uncomment clustering_images_resnet152(train_data, index_list, train_data_label[index_list]) in sources/elastic_effect_clustering.py
 ```
