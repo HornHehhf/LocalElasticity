@@ -1,12 +1,12 @@
 # Local Elasticity
-This is the code repository for the ArXiv paper [The Local Elasticity of Neural Networks](https://arxiv.org/pdf/1910.06943.pdf).
+This is the code repository for the ICLR paper [The Local Elasticity of Neural Networks](https://arxiv.org/pdf/1910.06943.pdf).
 If you use this code for your work, please cite
 ```
 @article{he2019local,
   title={The Local Elasticity of Neural Networks},
   author={He, Hangfeng and Su, Weijie J},
-  journal={arXiv preprint arXiv:1910.06943},
-  year={2019}
+  journal={ICLR},
+  year={2020}
 }
 
 ```
