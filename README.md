@@ -14,7 +14,7 @@ If you use this code for your work, please cite
 ## Installing Dependencies
 Use virtual environment tools (e.g miniconda) to install packages and run experiments\
 python>=3.6\
-pytorch(https://pytorch.org)
+pip install -r requirements.txt
 
 ## Change the Dir Path
 Change the /path/to/experiments/dir to your experiments dir in autoencoders_clustering.py, elastic_effect_clustering.py, elastic_effect_synthetic.py and train_models.py\
